@@ -1,8 +1,12 @@
 # Team Collaboration Platform
 
 A production-ready full-stack team collaboration platform built with React, Node.js, MongoDB, and Firebase Authentication.
+##  Live Demo
 
-## 🚀 Features
+🔗 https://team-collaboration-platform-mgh8.onrender.com/
+
+
+##  Features
 
 - **Authentication**: Firebase Authentication with role-based access control
 - **Team Management**: Create and manage teams with member invitations
@@ -19,7 +23,7 @@ A production-ready full-stack team collaboration platform built with React, Node
 - MongoDB (local or MongoDB Atlas)
 - Firebase project with Authentication enabled
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### 1. Clone the Repository
 
@@ -104,11 +108,10 @@ npm start
    - Add a web app if you haven't already
    - Copy the config values to your frontend `.env` file
 
-## 🌐 Production Deployment
+##  Production Deployment
 
 ### Recommended Stack
-- **Frontend**: Vercel or Netlify
-- **Backend**: Render or Railway
+- **Backend**: Render 
 - **Database**: MongoDB Atlas
 
 ### Environment Setup
